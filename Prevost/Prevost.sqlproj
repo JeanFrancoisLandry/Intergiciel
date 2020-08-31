@@ -60,5 +60,6 @@
   <ItemGroup>
     <Build Include="Net_DesignItem.sql" />
     <Build Include="Net_DesignProductionBOM.sql" />
+    <Build Include="Net_DesignRouting.sql" />
   </ItemGroup>
 </Project>
