@@ -61,5 +61,9 @@
     <Build Include="Net_DesignItem.sql" />
     <Build Include="Net_DesignProductionBOM.sql" />
     <Build Include="Net_DesignRouting.sql" />
+    <Build Include="Net_SalesQuoteItem.sql" />
+    <Build Include="Net_SalesQuoteRelease.sql" />
+    <Build Include="Relation_Article.sql" />
+    <Build Include="Relation_Atelier.sql" />
   </ItemGroup>
 </Project>
