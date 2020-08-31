@@ -65,5 +65,30 @@
     <Build Include="Net_SalesQuoteRelease.sql" />
     <Build Include="Relation_Article.sql" />
     <Build Include="Relation_Atelier.sql" />
+    <Build Include="Relation_ConfigurationCouleur.sql" />
+    <Build Include="Relation_ItemCategoryCode.sql" />
+    <Build Include="Relation_PosteDeTravail.sql" />
+    <Build Include="Stage_BesoinMateriel.sql" />
+    <Build Include="Stage_BesoinMaterielParent.sql" />
+    <Build Include="Stage_DetailDescriptionProject.sql" />
+    <Build Include="Stage_DetailProject.sql" />
+    <Build Include="Stage_Employe.sql" />
+    <Build Include="Stage_Groupe.sql" />
+    <Build Include="Stage_LotMiseEnProductionProjet.sql" />
+    <Build Include="Stage_MainOeuvreOptimization.sql" />
+    <Build Include="Stage_MainOeuvrePoste.sql" />
+    <Build Include="Stage_MainOeuvreProjet.sql" />
+    <Build Include="Stage_Materiel.sql" />
+    <Build Include="Stage_MaterielBase.sql" />
+    <Build Include="Stage_MaterielOptimization.sql" />
+    <Build Include="Stage_MaterielProject.sql" />
+    <Build Include="Stage_Optimization.sql" />
+    <Build Include="Stage_PosteDeTravail.sql" />
+    <Build Include="Stage_Projet.sql" />
+    <Build Include="Stage_TempsMateriel.sql" />
+    <Build Include="Stage_TypeProduits.sql" />
+    <Build Include="Trace_ErrorsDB.sql" />
+    <Build Include="Trace_TableIntergiciel.sql" />
+    <Build Include="Trace_Transactions.sql" />
   </ItemGroup>
 </Project>
