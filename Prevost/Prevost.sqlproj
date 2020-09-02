@@ -133,6 +133,8 @@
     <Build Include="EnleverEspaces.sql" />
     <Build Include="EnleverSymbolesHauteur.sql" />
     <Build Include="EnleverSymbolesLargeur.sql" />
-    <Build Include="Login1.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Prevost.publish.xml" />
   </ItemGroup>
 </Project>

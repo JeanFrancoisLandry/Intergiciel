@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.AspNet.OData" Version="7.4.1" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.OData.fr" Version="5.7.0" />
+  </ItemGroup>
+
+</Project>
